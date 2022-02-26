@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage('MAVEN-PROY') {
+    stage('') {
       parallel {
         stage('MAVEN-PROY') {
           steps {
